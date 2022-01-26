@@ -6,7 +6,8 @@
   "routes":[
     {
       "route": "/catalog",
-      "redirect": "/products"
+      "redirect": "/products",
+      "statusCode": 301
     }
   ]
 }
